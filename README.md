@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7amota
+- 👋 Hi, I’m Abdulrhman
 - 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Charity application
