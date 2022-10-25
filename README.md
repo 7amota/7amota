@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrhman
 - 👀 I’m interested in Computer programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter , django
 - 💞️ I’m looking to collaborate on Charity application
 - 📫 How to reach me '.       Thomas#8288
 
