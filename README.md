@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/abdulrhman-mohamed-a9595024a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdulrhman Mohammed-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Abdulrhman Mohammed-%2300acee.svg?color=08d7ec&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -114,7 +114,7 @@
 
 <li>
 <a href="https://discord.com/channels/@me/953656020620701696" target="_blank">
-<img src="https://img.shields.io/badge/discord: '. Thomas#8288-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:%20%20Thomas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
