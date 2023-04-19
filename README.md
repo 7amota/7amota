@@ -16,11 +16,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught Back-end developer
+- Currently learning Mobile Development by Self
+- Personal website under development
+<!-- - [link](https://www.0xabdulkhalid.ml) -->
+- I’m currently open for an Intern or a new job opportunity, this is under development
+<!-- -  [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
 
@@ -40,7 +41,7 @@
     
 - **Back-End Development**:
 
-   ![django]([https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/django%20-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white))
+   ![django](https://img.shields.io/badge/django%20-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white)
    
 <br>
 	
@@ -104,7 +105,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/abdulrhman-mohamed-a9595024a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -113,7 +114,7 @@
 
 <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -147,7 +148,8 @@
 ---
 
 <br>
-
+<!-- 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
+ -->
