@@ -114,7 +114,7 @@
 
 <li>
 <a href="https://discord.com/channels/@me/953656020620701696" target="_blank">
-<img src="https://img.shields.io/badge/discord:  '. Thomas#8288-%2300acee.svg?color=0d54c9&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord: '. Thomas#8288-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -122,7 +122,7 @@
 
 <li>
 <a href="bm993508@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Abdulrhman Mohammed-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
