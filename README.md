@@ -19,8 +19,7 @@
 - A passionate Self-taught Back-end developer
 - Currently learning Mobile Development by Self
 - Personal website under development<!-- - [link](https://www.0xabdulkhalid.ml) -->
-- I’m currently open for an Intern or a new job opportunity, this is under development
-<!-- -  [my resume](https://read.cv/0xabdulkhalid) -->
+- I’m currently open for an Intern or a new job opportunity, this is under development<!-- -  [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
 
