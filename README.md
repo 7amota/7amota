@@ -111,7 +111,7 @@
 
 <li>
 <a href="https://discord.com/channels/@me/953656020620701696" target="_blank">
-<img src="https://img.shields.io/badge/discord:%20%20Thomas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:%20%207amota-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
