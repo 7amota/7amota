@@ -18,7 +18,6 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Mobile Development by Self
-- Personal website https://c-v-7amota.vercel.app/
 - I’m currently open for an Intern or a new job opportunity
 <br><br>
 
