@@ -79,7 +79,7 @@
 <div align="center">
 
 <a href="https://github.com/7amota">
-  <img src="https://github-readme-stats.vercel.app/api?username=7amota\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=7amota&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7amota&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="7amota"/>
 
 </a>
